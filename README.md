@@ -135,7 +135,7 @@ https://docs.google.com/spreadsheets/d/1mvfT177sCRViMZlNBa-ZJeYPudch8oCk/edit?gi
 
 - **Email:** subha.mainak@gmail.com
 
-- **Linkedin:** www.linkedin.com/in/mainakmukherjee08
+- **Linkedin:** www.linkedin.com/in/mainak8
 
 Connect with me on LinkedIn or check out my GitHub for more projects and insights.
 
