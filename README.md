@@ -46,13 +46,9 @@ The dataset contains 16 variables for 11,159 car models. The variables include:
 
 The analysis was performed in Excel and follows these steps:
 
-1. **Data Cleaning:**
+1. **Data Cleaning:** Missing values were handled, and the dataset was formatted for consistency.
 
-Missing values were handled, and the dataset was formatted for consistency.
-
-2. **Exploratory Data Analysis (EDA):**
-
-Key statistics and distributions were examined.
+2. **Exploratory Data Analysis (EDA):** Key statistics and distributions were examined.
 
 3. **Statistical Analysis:**
 
@@ -60,12 +56,9 @@ Key statistics and distributions were examined.
 - Correlation Analysis: Examined relationships between variables, such as engine power and fuel efficiency.
 - Pivot Tables & Charts: Used to summarize data and visualize trends.
 
-4. **Market Segmentation:** 
-Analyzed how different market categories impact car popularity and pricing.
+4. **Market Segmentation:**  Analyzed how different market categories impact car popularity and pricing.
 
-5. **Dashboard Creation:** 
-
-An interactive Excel dashboard was developed to visualize key findings.
+5. **Dashboard Creation:** An interactive Excel dashboard was developed to visualize key findings.
 
 
 # Key Insights
@@ -79,6 +72,7 @@ The "Flex Fuel" market category is the most popular, with "Crossover" closely fo
 There is a strong positive correlation between engine horsepower and car price; as horsepower increases, the MSRP also tends to rise.
 
 - **Influential Features on Price:** 
+
 Regression analysis revealed that engine cylinders, engine HP, and fuel type are the most significant factors affecting car price.
 
 - **Manufacturer Pricing:** 
